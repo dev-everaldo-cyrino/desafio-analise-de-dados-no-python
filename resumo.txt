@@ -1,0 +1,24 @@
+superaram 5 unidades de vendas
+         Data             ID Loja          Produto  Quantidade  Valor Unitário  Valor Final
+13 2019-12-05   Iguatemi Campinas     Bermuda Liso          55             157         8635
+44 2019-12-21      Norte Shopping  Bermuda Estampa           5             169          845
+46 2019-12-21  Iguatemi Esplanada    Bermuda Linho           5             195          975
+54 2019-12-24   Iguatemi Campinas     Bermuda Liso          78             157        12246
+55 2019-12-25   Iguatemi Campinas     Bermuda Liso         100             157        15700
+
+
+    Iguatemi Campinas vendas            : 264..unidades
+    Iguatemi Campinas valor final       : R$ 41720
+
+    Iguatemi Esplanada vendas           : 14..unidades
+    Iguatemi Esplanada valor final      : R$ 2473
+
+    Norte Shopping vendas               : 27..unidades
+    Norte Shopping valor final          : R$ 4322
+
+    Bourbon Shopping SP vendas          : 27..unidades
+    Bourbon Shopping SP valor final     : R$ 4386
+
+Center Shopping Uberlândia vendas       : 18..unidades
+Center Shopping Uberlândia valor final  : R$ 2994
+
